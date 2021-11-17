@@ -76,3 +76,15 @@
     float: left;
     padding-left: 300px;
 }
+
+.body-content-1
+{
+    float:left;
+}
+
+.body-content-p
+{
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    padding-left: 30px;
+}
