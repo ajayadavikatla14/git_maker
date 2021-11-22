@@ -1,0 +1,67 @@
+.heading-part
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.headings
+{
+    padding: 10px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.logo
+{
+    margin-top: 10px;
+}
+
+.headings a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.headings-1
+{
+    margin-left: 200px;
+}
+
+.body-bg-img
+{
+    width:100%;
+    height: 410px;
+    display: block;
+    background-image: url(./delete7_bg-img.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container1
+{
+    display: block;
+    float: right;
+    width: 50%;
+    border: 2px solid palevioletred;
+    background-color: rgb(199, 69, 177);
+    height: 200px;
+}
+
+.container-text
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.container2
+{
+    display: block;
+    float: left;
+    width: 50%;
+    border: 2px solid palevioletred;
+    background-color: rgb(199, 69, 177);
+    height: 200px;
+}
